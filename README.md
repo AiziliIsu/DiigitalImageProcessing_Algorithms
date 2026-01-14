@@ -1,4 +1,5 @@
 Digital Image Processing Algorithms Dashboard
+
 This project is an interactive web-based dashboard, built with Streamlit, that serves as a comprehensive tool for exploring various digital image processing algorithms. The application allows users to upload an image and apply a wide range of transformations, from fundamental enhancements to advanced compression techniques, all through a user-friendly interface.
 
 Features
